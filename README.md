@@ -8,7 +8,7 @@ Utilizo as seguintes ferramentas:
 - HTMl
 - CSS
 - C++
-- Figma
+  
 
 ## Meio de contato
 
