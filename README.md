@@ -5,7 +5,7 @@
 Utilizo as seguintes ferramentas:
 
 - JavaScript
-- HTMl
+- HTML
 - CSS
 - C++
   
