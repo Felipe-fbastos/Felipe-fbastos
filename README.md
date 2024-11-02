@@ -1,4 +1,4 @@
-## Hello, welcome to my profile  👨‍🎓
+## Hello, Welcome To My Profile 
 
 
   <h2 align="left">About Me</h2>
