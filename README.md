@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="left">Contact forms</h2>
+<h2 align="left">Social Midias</h2>
 
 ###
 
