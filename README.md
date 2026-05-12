@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">- Student of Programming<br>-  Learning Java, C#, Spring</p>
+<p align="left">- Student of Programming<br>-  Learning C#</p>
 
 ###
 
